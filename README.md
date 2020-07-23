@@ -10,7 +10,7 @@ Tool created to user search related to identify fake user based on official comp
    
    - nano/vim whitelist.txt and change the example1 and example2 to users that are official to your company.
    - nano/vim keywords.txt and change the examples to keywords you want to search for.
-   - python3 1nstagram_Us3r_Hunt3r.py
+   - python3 1nst-gr-m_Us3r_Hunt3r.py
 
 
 ### Example: instagram user and keywords instagram_example instagramoficial Instagram3
